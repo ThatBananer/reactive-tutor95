@@ -1,0 +1,33 @@
+/* Navbar Styles */
+.navbar {
+    background-color: #f7f8fa; /* Change this to your desired background color */
+    padding: 10px 0;
+  }
+  
+  .navbar-brand {
+    margin-right: auto; /* Pushes the logo to the left */
+    padding-right: 3px;
+  }
+  
+  .navbar-search {
+    flex-grow: 1; /* Takes up the middle space */
+  }
+  
+  .navbar-buttons {
+    
+    background-color: #1998ff; /* Change to your desired button color */
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    padding: 10px 20px;
+    margin-left: 10px; /* Add some spacing between input and button */
+    margin-bottom: 10px;
+    cursor: pointer;
+    font-size: 16px;
+    
+  }
+  
+  .navbar-buttons button {
+    margin-left: 10px; /* Adjust the spacing between buttons */
+  }
+  

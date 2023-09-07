@@ -1,0 +1,40 @@
+/* searchBar.css */
+
+/* Style for the form containing the search input and button */
+.divSearchBar {
+  display: flex;
+  align-items: center;
+}
+
+/* Style for the search input */
+input[type="text"] {
+  flex: 1; /* Take up remaining space */
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  font-size: 16px;
+  
+}
+.labelText{
+  font-size: small;
+}
+
+
+
+/* Style for the search button */
+.searchButton {
+  background-color: #1998ff; /* Change to your desired button color */
+  color: #fff;
+  border: none;
+  border-radius: 4px;
+  padding: 10px 20px;
+  margin-left: 10px; /* Add some spacing between input and button */
+  margin-bottom: 10px;
+  cursor: pointer;
+  font-size: 16px;
+}
+
+/* Hover effect for the button */
+button[type="submit"]:hover {
+  background-color: #0056b3; /* Change to your desired hover color */
+}

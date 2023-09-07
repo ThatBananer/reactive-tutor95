@@ -1,0 +1,49 @@
+/* CSS */
+.tutorListingBox {
+    border: 1px solid #000;
+    padding: 20px;
+    max-width: 300px; /* Adjust the value as needed */
+    margin: 0 10px 20px 10px; /* Add margin for spacing */
+  }
+  
+  .tutorListingBox img {
+    width: 100%;
+    max-width: 200px; /* Adjust the value as needed */
+    height: auto;
+    object-fit: cover;
+    margin-bottom: 10px;
+  }
+  
+  .tutorListingBox .tutorListingBio {
+    text-align: left;
+  }
+  
+  .tutorListingBox .tutorListingBio p {
+    margin: 5px 0;
+  }
+
+  /* CSS */
+.grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); /* Adjust the column width as needed */
+    gap: 20px; /* Adjust the gap between grid items as needed */
+    justify-items: center;
+    align-content: start; /* Align grid items to the top of the grid */
+    height: 100vh;
+  }
+
+  
+
+
+
+.horizontalContainer{
+  display: flex;
+}
+
+.horizontalContainerSidebar{
+  flex: 0 0 auto;
+}
+
+.horizontalContainerObject{
+  flex: 1;
+}

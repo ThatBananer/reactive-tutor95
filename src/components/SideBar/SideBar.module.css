@@ -1,0 +1,56 @@
+.sidebar {
+  background-color: white; /* Updated primary color to white */
+  width: 200px;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+  border-right: 1px solid rgb(139, 139, 139); /* Add left border with gray color */
+
+}
+
+.logoImg {
+  width: 80px;
+  height: auto;
+  margin-bottom: 20px; /* Add margin to create space below the logo */
+}
+
+h4 {
+  margin-top: 0;
+  margin-bottom: 20px; /* Add margin below the logo */
+  color: gray; /* Secondary color */
+}
+
+.navigation {
+  list-style-type: none;
+  padding: 0;
+  margin-top: 40px; /* Adjust the margin to create space from the top */
+}
+
+.navigationLi {
+  display: flex;
+  align-items: center;
+  margin-bottom: 40px;
+  position: relative; /* Add relative positioning to each list item */
+  
+}
+
+.navIcon {
+  width: 20px;
+  height: 20px;
+  margin-right: 10px;
+}
+
+span {
+  font-size: 14px;
+  color: gray; /* Updated secondary color to gray */
+}
+
+hr {
+  width: 61%; /* Set the width of the horizontal line */
+  height: 1px; 
+  margin: 30px 0; /* Set the margin above and below the horizontal line */
+  padding: 0; 
+
+}
+
