@@ -155,7 +155,7 @@ const TutorPage = () => {
         <h2>List of Classes Taken</h2>
         <div className="form-group">
           <label htmlFor="course-id">Course IDs:</label>
-          <p>Please write in the following format.</p>
+          <p>Please write in the following format:</p>
           <p style={{ color: "red", fontWeight: "bold" }}>
             "classID1,classID2,classID3,classID4,..."
           </p>

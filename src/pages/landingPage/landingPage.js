@@ -108,7 +108,7 @@ function LandingPage() {
               From Umass Boston
             </h1>
             <h6 className="font-weight-normal text-muted pb-3">
-              Class Alumn Tutors is a simple way get tutoring and/or make money
+              Get tutoring and/or make money
               that can solve your GPA and/or money problems.
             </h6>
             <div></div>
@@ -119,9 +119,9 @@ function LandingPage() {
           <div className="container">
             <section className="features-overview" id="features-section">
               <div className="content-header">
-                <h2>What is Class Alumn Tutors</h2>
+                <h2>What is this site for?</h2>
                 <h6 className="section-subtitle text-muted">
-                  Class Alumn Tutors is a way for students to get tutoring
+                  its a way for students to get tutoring
                   <br /> or tutor others
                 </h6>
               </div>
@@ -138,12 +138,12 @@ function LandingPage() {
                 <h3 className="m-0">
                   For concerned students
                   <br />
-                  we can help you find a tutor!
+                  We can help you find a tutor!
                 </h3>
                 <div className="col-lg-7 col-xl-6 p-0">
                   <p className="py-4 m-0 text-muted">
-                    Taking a hard class this semester? We can help find somone
-                    whos taken it at UMB.
+                    Taking a hard class this semester? We can help find someone 
+                    who's taken it at UMB.
                   </p>
                   <p className="font-weight-medium text-muted">
                     Someone at UMB whos taken that hard class might be on the
@@ -176,12 +176,12 @@ function LandingPage() {
                 </h3>
                 <div className="col-lg-9 col-xl-8 p-0">
                   <p className="py-4 m-0 text-muted">
-                    So youve taken some hard classes and think you can make some
-                    money? On Class Alumn Tutors we want to connect you to
+                    So you've taken some hard classes and think you can make some
+                    money? Use this site to connect you to
                     people looking for help
                   </p>
                   <p className="pb-2 font-weight-medium text-muted">
-                    Make your profile on Class Alumn Tutors to get access to UMB
+                    Make your profile to get access to UMB
                     students who want tutoring in the classes you've mastered!
                   </p>
                 </div>
@@ -189,7 +189,7 @@ function LandingPage() {
             </div>
             <footer className="border-top">
               <p className="text-center text-muted pt-4">
-                Copyright © ???? ~ Just a student who couldnt find physics 2
+                Copyright © ???? ~ Just a student who couldn't find physics 2
                 tutors who were good lol
               </p>
               <p className="text-center text-muted pt-4">
